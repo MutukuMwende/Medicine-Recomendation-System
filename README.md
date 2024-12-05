@@ -9,20 +9,26 @@ In healthcare, precision and personalization are paramount. However, selecting t
 **Key Benefits:**
 
 Supports Healthcare Decisions: Offers reliable medication suggestions to enhance clinical workflows.
+
 Patient Empowerment: Encourages informed choices through personalized, data-backed recommendations.
+
 Efficient Solutions: Reduces time spent searching for the right treatment.
+
 ⚠️ Disclaimer: This tool is for informational purposes only and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for diagnosis and treatment.
 
 **Features**
 
 Symptom Matching: Analyzes user-provided symptoms to identify potential medications.
+
 Smart Recommendation Algorithm: Utilizes historical data and machine learning to suggest relevant treatment options.
+
 Patient-Centric Approach: Customizes results based on patient profiles and preferences for tailored recommendations.
 
 **Future Enhancements**
 
 Symptom Severity Analysis: Enhance the accuracy of recommendations by considering symptom severity.
+
 Expanded Data Sources: Incorporate additional datasets for a broader recommendation scope.
+
 User-Friendly Interface: Develop a mobile or web-based UI for seamless interaction.
-Set up the dataset:
 
