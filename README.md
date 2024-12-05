@@ -1,4 +1,4 @@
-**Medicine Recommendation System 💊**
+#**Medicine Recommendation System 💊**#
 
 A machine learning-powered tool designed to assist in personalized medication suggestions based on patient symptoms and health conditions. By leveraging data-driven insights, this system aims to enhance decision-making for both patients and healthcare providers, fostering more accurate and efficient treatment outcomes.
 
